@@ -1,0 +1,41 @@
+.page_three_div_main{
+    background-color: palevioletred;
+    width: 800px;
+    height: 600px;
+    margin-left: 350px;
+}
+.newjob{
+    margin-left: 7px;
+}
+.page_three_div_one{
+    background-color: peachpuff;
+    height: 20px;
+}
+.newjob{
+    color: #736F6E;
+}
+.page_three_div_two{
+    background-color: aquamarine;
+    height: 20px;
+}
+.usetemplate{
+    margin-left: 7px;
+    color: #8C8C8C;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.page_three_div_three{
+    background-color: lightcyan;
+    margin-top: 2px;
+    height: 40px;
+}
+.select_template{
+    background-color: #E5E4E2;
+    height: 35px;
+    width: 450px;
+    margin-left: 100px;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+    margin-top: 2px;
+}
