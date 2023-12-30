@@ -1,6 +1,6 @@
 .page_three_div_main{
     background-color: palevioletred;
-    width: 800px;
+    width: 700px;
     height: 600px;
     margin-left: 350px;
 }
@@ -32,8 +32,8 @@
 .select_template{
     background-color: #E5E4E2;
     height: 35px;
-    width: 450px;
-    margin-left: 100px;
+    width: 600px;
+    margin-left: 48px;
     border-radius: 10px;
     border: none;
     font-size: 15px;
