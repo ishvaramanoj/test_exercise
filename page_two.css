@@ -1,0 +1,49 @@
+.page_two_div_main{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 200px;
+    margin-left: 450px;
+    margin-top: 150px;
+    border-radius: 8px;
+}
+.page_two_div_one{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.newjob{
+    margin-left: 5px;
+    color: #736F6E;
+}
+.page_two_div_two{
+    height: 25px;
+    margin-top: 10px;
+}
+.template{
+    margin-left: 5px;
+    color: #8C8C8C;
+}
+.page_two_div_three{
+    background-color: whitesmoke;
+    height: 60px;
+    margin-top: 20px;
+}
+.select_template{
+    background-color: #E5E4E2;
+    height: 40px;
+    width: 450px;
+    margin-left: 25px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 15px;
+}
+.page_two_nxt_btn{
+    background-color: #4169E1;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 16px;
+    color: white;
+    margin-top: 18px;
+    margin-left: 385px;
+}
