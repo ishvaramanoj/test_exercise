@@ -1,8 +1,11 @@
+.page_two_body{
+    background-color: #3A3B3C;
+}
 .page_two_div_main{
     background-color: whitesmoke;
     width: 500px;
     height: 200px;
-    margin-left: 450px;
+    margin-left: 470px;
     margin-top: 150px;
     border-radius: 8px;
 }
@@ -47,3 +50,4 @@
     margin-top: 18px;
     margin-left: 385px;
 }
+.page_two_nxt_btn:hover{transform: translateY(-2px);}
