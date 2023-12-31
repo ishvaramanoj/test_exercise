@@ -1,12 +1,14 @@
 .page_four_div_main{
-    background-color: silver;
+    background-color: #e3e3ed;
     width: 500px;
     height: 280px;
     margin-left: 450px;
     margin-top: 150px;
+    border-radius: 10px;
 }
 .page_four_div_one{
-    background-color: brown;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
 }
 .newjob{
     margin-left: 5px;
@@ -14,8 +16,41 @@
     color: #736F6E;
 }
 .page_four_div_two{
-    background-color: green;
+    margin-left: 4px;
     height: 25px;
     margin-top: 5px;
     font-size: 18px;
+}
+.page_four_div_three{
+    margin-top: 7px;
+    height: 30px;
+    font-size: 17px;
+    color: #736F6E;
+}
+.page_four_div_four{
+    margin-top: 5px;
+    height: 25px;
+    color: #736F6E;
+}
+.page_four_div_five{
+    background-color: #d5d5da;
+    margin-top: 10px;
+    height: 70px;
+    width: 300px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
+.page_four_div_six{
+    margin-top: 10px;
+    height: 50px;
+}
+.page_four_nxt_btn{
+    background-color: #4169E1;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 16px;
+    color: white;
+    margin-top: 4px;
+    margin-left: 390px;
 }
