@@ -3,10 +3,10 @@
 }
 .page_one_div_one{
     background-color: whitesmoke;
-    width: 1300px;
+    width: 950px;
     height: 30px;
     margin-top: 40px;
-    margin-left: 100px;
+    margin-left: 280px;
     border-top-left-radius: 8px;
     border-top-right-radius: 8px;
     font-size: 17px;
@@ -16,15 +16,15 @@
 }
 .page_one_div_three{
     background-color: whitesmoke;
-    width: 1300px;
+    width: 950px;
     height: 500px;
-    margin-left: 100px;
+    margin-left: 280px;
 }
 .page_one_div_four{
     background-color: whitesmoke;
-    width: 1300px;
+    width: 950px;
     height: 100px;
-    margin-left: 100px;
+    margin-left: 280px;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
@@ -35,7 +35,22 @@
     border: none;
     border-radius: 16px;
     margin-top: 40px;
-    margin-left: 1170px;
+    margin-left: 800px;
     color: white;
 }
 .page_one_nxt_btn:hover{transform: translateY(-2px);}
+
+#table_id{
+    background-color: palevioletred;
+    width: 930px;
+    margin-left: 10px;
+    margin-top: 10px;
+    height: 350px;
+    border-radius: 10px;
+}
+.tby{
+    background-color: peru;
+    margin-left: 20px;
+    font-size: 18px;
+    text-align: center;
+}
