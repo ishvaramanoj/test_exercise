@@ -52,4 +52,8 @@
     background-color: white;
     margin-left: 20px;
     font-size: 18px;
+    text-align: center;
+}
+.thead{
+    text-align: center;
 }
